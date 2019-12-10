@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="country" label="Country" language="en" table="var__m_sys_hub_action_output_89aaccc3db210010fba9a3a94896196e">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <help/>
+            <hint/>
+            <label>Country</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_89aaccc3db210010fba9a3a94896196e</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin_gvs_mnemes</sys_created_by>
+            <sys_created_on>2019-12-10 09:00:57</sys_created_on>
+            <sys_id>21aa088bdb210010fba9a3a9489619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Country</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_404835_ipinfo_sp">38183722db650010fba9a3a94896192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">38183722db650010fba9a3a94896192f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_89aaccc3db210010fba9a3a94896196e_country_en</sys_update_name>
+            <sys_updated_by>admin_gvs_mnemes</sys_updated_by>
+            <sys_updated_on>2019-12-10 09:00:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

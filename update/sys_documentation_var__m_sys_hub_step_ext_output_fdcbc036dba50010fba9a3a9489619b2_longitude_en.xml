@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="longitude" label="longitude" language="en" table="var__m_sys_hub_step_ext_output_fdcbc036dba50010fba9a3a9489619b2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>longitude</element>
+            <help/>
+            <hint/>
+            <label>longitude</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_fdcbc036dba50010fba9a3a9489619b2</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin_gvs_mnemes</sys_created_by>
+            <sys_created_on>2019-12-09 14:27:24</sys_created_on>
+            <sys_id>3dcbc036dba50010fba9a3a9489619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>longitude</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_404835_ipinfo_sp">38183722db650010fba9a3a94896192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">38183722db650010fba9a3a94896192f</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_fdcbc036dba50010fba9a3a9489619b2_longitude_en</sys_update_name>
+            <sys_updated_by>admin_gvs_mnemes</sys_updated_by>
+            <sys_updated_on>2019-12-09 14:27:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
